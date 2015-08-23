@@ -32,6 +32,6 @@ The run_analysis script does five different tranformations on the data set:
 2. Relables the acitivty data with the text descriptions
 3. Relables frequnecy and time variable names to clarify what those data points are
 4. Reduces the data set down to measures dealing with the means and standard deviations
-5. Calculates teh mean of all teh variables by subject and activity
+5. Calculates the mean of all the variables by subject and activity
 
 This data is then label as tidy_data
